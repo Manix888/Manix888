@@ -25,4 +25,4 @@
 - ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Manix888&count_private=true&show_icons=true&theme=algolia)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manix888&layout=compact&theme=algolia)
 - ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Manix888&theme=algolia)
-- [<img src="https://www.codewars.com/usersManix888/badges/large">](https://www.codewars.com/users/Manix888)
+- [<img src="https://www.codewars.com/users/Manix888/badges/large">](https://www.codewars.com/users/Manix888)
